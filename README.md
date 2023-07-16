@@ -31,7 +31,9 @@ Promoted to Supervisor in December 2019
 
 **Passion Project: Built my own Desktop Computer from Scratch (_2021_)**
 - Researched the different hardware that goes into building a PC (Motherboard, PSU, CPU, etc…) 
-- Installed each component in the desktop with some assistance. 
+- Installed each component in the desktop with some assistance.
+
+![pic](pngwing.com.png)
 
 --- 
 
