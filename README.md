@@ -31,3 +31,10 @@ Promoted to Supervisor in December 2019
 **Passion Project: Built my own Desktop Computer from Scratch (_2021_)**
 - Researched the different hardware that goes into building a PC (Motherboard, PSU, CPU, etc…) 
 - Installed each component in the desktop with some assistance. 
+
+--- 
+
+### Other 
+[**My Art - Paintings**](https://lhvuong.wixsite.com/my-site)
+
+[**My Bullet Journal**](https://lhvuong.wixsite.com/my-site/projects-7)
