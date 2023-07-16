@@ -2,6 +2,7 @@ I am  senior standing undergraduate student at the University of California, San
 
 Being an adaptable team player, I am quickly able to grasp new concepts and will ensure I perform to the best of my abilities no matter the circumstances. I often let my creativity shine when composing projects that require some sort of artist vision. 
 
+![LinkedIn Header](linkedin.jpg)
 
 #### Technical Skills: Javacript, Java, Python, C++
 #### Languages: Fluent English, Fluent Vietnamese
