@@ -6,6 +6,7 @@ Being an adaptable team player, I am quickly able to grasp new concepts and will
 
 #### Technical Skills: Javacript, Java, Python, C++
 #### Languages: Fluent English, Fluent Vietnamese
+#### [GitHub](https://github.com/lhvuong11) , [Resume](https://drive.google.com/file/d/1I-BmKFtA3IP3xDzzOO0B2_PnVqz4zsBJ/view?usp=sharing) , [LinkedIn](https://www.linkedin.com/in/linda-vuong-3664821ba/)
 
 ## Education
 - B.S., Mathematics - Computer Science | University of California San Diego  (_August 2023_)
