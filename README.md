@@ -24,7 +24,7 @@ Promoted to Supervisor in December 2019
 - Memorized 40+ recipes to operate as a barista and cook
 - Pursued learning opportunities to advance knowledge and take on a supervisor position
 
-### Projects
+## Projects
 **Facebook-like Program in Java (_May 2021_)**
 - Designed a program where the user is able to add and remove friends, check friends list, etc…
 
