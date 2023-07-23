@@ -42,3 +42,5 @@ Promoted to Supervisor in December 2019
 [My Art - Paintings](https://lhvuong.wixsite.com/my-site)
 
 [My Bullet Journal](https://lhvuong.wixsite.com/my-site/projects-7)
+
+[Miscellaneous Projects](https://lhvuong.wixsite.com/my-site/copy-of-misc)
