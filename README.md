@@ -1,4 +1,4 @@
-I am  senior standing undergraduate student at the University of California, San Diego. I aim to leverage my abilities and soft-skills in order to gain real-world experience in the technological industry. I am dependable, reliable, and am always ready to learn and grow!
+I am a recent grad from the University of California, San Diego. I aim to leverage my abilities and soft-skills in order to gain real-world experience in the technological industry. I am dependable, reliable, and am always ready to learn and grow!
 
 Being an adaptable team player, I am quickly able to grasp new concepts and will ensure I perform to the best of my abilities no matter the circumstances. I often let my creativity shine when composing projects that require some sort of artist vision. 
 
