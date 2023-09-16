@@ -2,6 +2,8 @@ I am a recent grad from the University of California, San Diego. I aim to levera
 
 Being an adaptable team player, I am quickly able to grasp new concepts and will ensure I perform to the best of my abilities no matter the circumstances. I often let my creativity shine when composing projects that require some sort of artist vision. 
 
+##### I am looking for Entry Level Information Technology roles!
+
 ![LinkedIn Header](linkedin.jpg)
 
 #### Technical Skills: Javacript, Java, Python, C++
@@ -12,8 +14,12 @@ Being an adaptable team player, I am quickly able to grasp new concepts and will
 - B.S., Mathematics - Computer Science | University of California San Diego  (_August 2023_)
 - A.D.T., Computer Science | De Anza College (_July 2021_)
 
+## Certifications
+**Google Technical Support Fundamentals (_August 2023_)**
+- 1 out of 5 courses apart of the Google IT Support Certificate
+
 ## Work Experience
-**Code Instructor/Sensei @ Code Ninjas (_January 2023 - Present_)**
+**Code Instructor/Sensei @ Code Ninjas (_January 2023 - August 2023_)**
 - Lead Summer Camps consisting of 4-10 children, facilitating activites and learning on topics such as Intro to Python and Code-Breaking
 - A Head Code Instructor/Sensei as I gradually building problem-solving skills for each student (10-15 per day) by building and coding games in JavaScript, Roblox Studio, and C#. 
 
