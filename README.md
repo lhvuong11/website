@@ -1,8 +1,8 @@
-I am a recent grad from the University of California, San Diego. I aim to leverage my abilities and soft-skills in order to gain real-world experience in the technological industry. I am dependable, reliable, and am always ready to learn and grow!
+Hello everyone! 
 
-Being an adaptable team player, I am quickly able to grasp new concepts and will ensure I perform to the best of my abilities no matter the circumstances. I often let my creativity shine when composing projects that require some sort of artist vision. 
+My name is Linda Vuong and I'm currently working as an Associate Test Technician with a computer sceience background. I graduated from the University of California, San Diego with a B.S. in Mathematics-Computer Science and have been studying on topics involving Infromation Technology and UI/UX Design. I aim to leverage my abilities to gain real-world experience in the technological industry. Being an adaptable team player, I am able to quickly grasp new concepts while efficiently communicating with my peers. I am dependable, reliable, and am always ready to learn and grow!
 
-##### I am looking for Entry Level Information Technology roles!
+##### I am seeking Entry Level Information Technology or UI/UX roles!
 
 ![LinkedIn Header](linkedin.jpg)
 
