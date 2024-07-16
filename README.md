@@ -1,6 +1,8 @@
 Hello everyone! 
 
-My name is Linda Vuong and I'm currently working as an Associate Test Technician with a computer sceience background. I graduated from the University of California, San Diego with a B.S. in Mathematics-Computer Science and have been studying on topics involving Infromation Technology and UI/UX Design. I aim to leverage my abilities to gain real-world experience in the technological industry. Being an adaptable team player, I am able to quickly grasp new concepts while efficiently communicating with my peers. I am dependable, reliable, and am always ready to learn and grow!
+My name is Linda Vuong and I'm currently working as an Associate Test Technician with a computer sceience background. I graduated from the University of California, San Diego with a B.S. in Mathematics-Computer Science and have been studying on topics involving Infromation Technology and UI/UX Design. 
+
+I aim to leverage my abilities to gain real-world experience in the technological industry. Being an adaptable team player, I am able to quickly grasp new concepts while efficiently communicating with my peers. I am dependable, reliable, and am always ready to learn and grow!
 
 #### I am seeking Entry Level Information Technology or UI/UX roles!
 
@@ -39,6 +41,7 @@ My name is Linda Vuong and I'm currently working as an Associate Test Technician
 
 ## Certifications
 **IT Help Desk for Beginners**
+> LinkedIn Learning
 - Strengthened IT knowledge by learning about IT Help Desk skills, user support, incident tracking and tickets using Spiceworks Help Desk Ticketing Database, and other management tools
 
 
@@ -53,7 +56,6 @@ My name is Linda Vuong and I'm currently working as an Associate Test Technician
 **CIS 22C Java Final Project**
 - Designed a Facebook-like program where the user can add/remove friends, check friends list, etc… 
 - Implemented various data structures such as LinkedList, LinkedDictionary, Heaps, Graphs, etc…
-
 
 --- 
 
