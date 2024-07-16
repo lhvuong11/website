@@ -28,13 +28,15 @@ I aim to leverage my abilities to gain real-world experience in the technologica
 - Built problem-solving skills and determined individual skill sets for each student 
 
 **Retail Sales Associate at ZARA** 
-> Appointed Opening & Closing Cashier – Ensured precise opening and closing register balances daily 
+
+Appointed Opening & Closing Cashier – Ensured precise opening and closing register balances daily 
 - Conducted nightly currency counts and bank deposits with store managers
 - Processed an average of 50 transactions daily with 99.5% accuracy
 - Assisted and communicated with customers regarding clothing inquires by understanding their needs and recommending products that meet those needs
  
 **Team Supervisor at Tastea**
 > Promoted from Team Member to Team Supervisor within a year of employment
+
 - Led a team of 6-10 members per day, achieving overall productivity through effective task delegation
 - Stocked inventory and reduced waste through strategic ordering and portion control measures
 - Memorized and prepared 30+ recipes daily while consistently meeting quality standards
@@ -42,11 +44,13 @@ I aim to leverage my abilities to gain real-world experience in the technologica
 ## Certifications
 **IT Help Desk for Beginners**
 > LinkedIn Learning
+
 - Strengthened IT knowledge by learning about IT Help Desk skills, user support, incident tracking and tickets using Spiceworks Help Desk Ticketing Database, and other management tools
 
 
 **Google Technical Support Fundamentals**
 > 1 out of 5 courses apart of the Google IT Support Certificate
+
 - Developed a foundation in IT fundamentals, including computer hardware, networking, system administration, and troubleshooting methodologies
 
 ## Projects
