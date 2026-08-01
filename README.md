@@ -10,35 +10,31 @@ Driving forward with a passion for engineering and helping others, I am eager to
 
 ![LinkedIn Header](linkedin.jpg)
 
-**Technical Skills:** Python, Javacript, Java, C++\
-**Lab Skills:** RF Compliance Testing and Reporting\
-**Languages:** Fluent English, Advanced Vietnamese\
+#### Technical Skills: Python, Javacript, Java, C++
+#### Laboratory Skills: RF Compliance Testing and Reporting
+#### Languages: Fluent English, Advanced Vietnamese
 
 #### [GitHub](https://github.com/lhvuong11) , [LinkedIn](https://www.linkedin.com/in/linda-vuong-3664821ba/) , [Resume](https://github.com/lhvuong11/website/blob/main/Vuong_Linda_Resume.docx) , [CV](https://github.com/lhvuong11/website/blob/main/Vuong_Linda_CV.pdf)
 
 
-
 ## Education
-M.S. Informatics | San Jose State University [In progress]
+- M.S. Informatics | San Jose State University [In progress]
+- B.S. Mathematics - Computer Science | University of California San Diego [August 2023]
+- A.D.T. Computer Science | De Anza College [July 2021]
 
----
-B.S. Mathematics - Computer Science |\ University of California San Diego [August 2023]
-
----
-A.D.T. Computer Science | De Anza College [July 2021]
-
----
 
 ## Work Experience
 ### Element Materials Technology
 
 **Lead Engineer**
-- bleep bloop
+- Led a team of 8-9 engineers and technicians through multiple 4-6 month-long project cycles, from orchestrating testing to organizing, analyzing, and presenting results.
+- Prioritized daily testing and streamlined workflows to meet critical project deadlines while maintaining testing quality.
+- Drafted and submitted three primary reports, each with 10 supporting appendices, achieving 100% compliance with client requirements and internal quality standards. 
+- Continued serving as Group Lead after completing my assigned projects, supporting fellow engineers and driving sustained team efficiency and operational excellence.
 
 **Associate Engineer I**
-- Conduct and analyze SAR/RF exposure compliance testing and evaluations per regulatory specifications for 5+ technologies and test models
-- Compile and report test results for 10+ total test models using MS Word and MS Excel
-- Curated an official Job Instruction Breakdown Document for future trainings in system verification
+- Compiled and reported test results using MS Word, Excel and Acrobat for 30+ total test models, showcasing data analysis and improving data accuracy.
+- Trained new hires in all aspects of SAR testing, as well as created new SOPs to further facilitate learning, illustrating attention to detail and the ability to clearly explain complex procedures.
 
 **Associate Test Technician**
 > Promoted from Seasonal to Permanent Technician
@@ -46,33 +42,25 @@ A.D.T. Computer Science | De Anza College [July 2021]
 
 ### Apple Retail Oakrigdge
 **Seasonal Specialist** 
-- XX
+- Provided personalized, informed Apple product recommendations based on product releases and industry trends, tailoring solutions to meet individual user needs and enhance overall satisfaction for over 8 customers daily.
+- Built strong customer rapport through collaborative real-time troubleshooting and needs assessments, resulting in a 98% customer satisfaction rating.
 
 ### Code Ninjas
 **Code Instructor** 
-- Delivered comprehensive curriculum for JavaScript, Roblox Studio, and C# courses, reaching 20+ students every week
-- Facilitated coding workshops and seminars attended by 30+ participants, resulting in positive feedback from parents and students alike
-- Built problem-solving skills and determined individual skill sets for each student 
-
-### ZARA
-**Retail Sales Associate** 
-> Appointed Opening & Closing Cashier – Ensured precise opening and closing register balances daily 
-- Conducted nightly currency counts and bank deposits with store managers
-- Processed an average of 50 transactions daily with 99.5% accuracy
-- Assisted and communicated with customers regarding clothing inquires by understanding their needs and recommending products that meet those needs
+- Delivered comprehensive instruction in JavaScript, Roblox Studio, and C# to 15+ students daily through engaging, hands-on lessons.
+- Assessed individual student skill levels and tailored instruction to strengthen problem-solving abilities, contributing to a 92% improvement in student performance.
  
 ### Tastea
 **Team Supervisor**
 > Promoted from Team Member to Team Supervisor within a year of employment
-- Led a team of 6-10 members per day, achieving overall productivity through effective task delegation
-- Stocked inventory and reduced waste through strategic ordering and portion control measures
-- Memorized and prepared 30+ recipes daily while consistently meeting quality standards
+- Supervised a team of 6–10 employees, driving productivity through strategic task delegation, workflow coordination, and performance oversight.
+- Managed weekly inventory by monitoring stock levels and placing strategic orders to ensure product availability and operational efficiency.
+- Memorized and prepared 30+ recipes daily while consistently meeting quality standards.
 
 ## Certifications
 **IT Help Desk for Beginners**
 > LinkedIn Learning
 - Strengthened IT knowledge by learning about IT Help Desk skills, user support, incident tracking and tickets using Spiceworks Help Desk Ticketing Database, and other management tools
-
 
 **Google Technical Support Fundamentals**
 > 1 out of 5 courses apart of the Google IT Support Certificate
