@@ -2,8 +2,9 @@ Hello everyone!
 
 My name is Linda Vuong. I'm currently a Lead Engineer at Element Materials Technology where I facilitate testing, draft and submit compliance reports, as well as lead and collorate on multiple projects on end.
 
-I am an ambitious, detailed-oriented team player with excellent problem-solving skills.
-I tackle challenges with flexibility and innovative thinking, thriving in collaborative team environments. Driving forward with a passion for engineering and helping others, I am eager to advance my career while expanding my skillset.
+Detailed-oriented engineer with experience leading technical projects, managing deliverables, mentoring teammates, and collaborating across multidisciplinary teams. Skilled in technological documentation, data analysis, process improvement, and stakeholder communication. Brings strong analytical and innovative problem-solving skills with a commitment to continuous learning and delivering practical, high quality engineering solutions. 
+
+Driving forward with a passion for engineering and helping others, I am eager to advance my career while expanding my skillset.
 
 #### Let's connect and please don't hesitate to reach out!
 
@@ -15,16 +16,29 @@ I tackle challenges with flexibility and innovative thinking, thriving in collab
 #### [GitHub](https://github.com/lhvuong11) , [LinkedIn](https://www.linkedin.com/in/linda-vuong-3664821ba/) , [Resume](https://github.com/lhvuong11/website/blob/main/Vuong_Linda_Resume.docx) , [CV](https://github.com/lhvuong11/website/blob/main/Vuong_Linda_CV.pdf) 
 
 ## Education
-- M.S., Informatics | San Jose State University (_In progress_)
-- B.S., Mathematics - Computer Science | University of California San Diego  (_August 2023_)
-- A.D.T., Computer Science | De Anza College (_July 2021_)
+M.S. Informatics | San Jose State University (_In progress_)
+---
+B.S. Mathematics - Computer Science | University of California San Diego (_August 2023_)
+---
+A.D.T. Computer Science | De Anza College (_July 2021_)
+---
 
 ## Work Experience
-**Associate Test Technician at Element Materials Technology**
+**Element Materials Technology**
+***Lead Engineer***
+- bleep bloop
+
+***Associate Engineer I***
 - Conduct and analyze SAR/RF exposure compliance testing and evaluations per regulatory specifications for 5+ technologies and test models
 - Compile and report test results for 10+ total test models using MS Word and MS Excel
 - Curated an official Job Instruction Breakdown Document for future trainings in system verification
 
+***Associate Test Technician***
+> Converted from Seasonal to Permanent Technician
+- Conducted and analyzeed SAR/RF exposure compliance testing and evaluations per regulatory specifications for 5+ technologies (UMTS/LTE/NR/WLAN/WIFI/BT/NB-UNII/UWB), ensuring compliance and safety.
+
+**Seasonal Retail Specialist at Code Ninjas** 
+- XX
 
 **Code Instructor at Code Ninjas** 
 - Delivered comprehensive curriculum for JavaScript, Roblox Studio, and C# courses, reaching 20+ students every week
@@ -39,7 +53,6 @@ I tackle challenges with flexibility and innovative thinking, thriving in collab
  
 **Team Supervisor at Tastea**
 > Promoted from Team Member to Team Supervisor within a year of employment
-
 - Led a team of 6-10 members per day, achieving overall productivity through effective task delegation
 - Stocked inventory and reduced waste through strategic ordering and portion control measures
 - Memorized and prepared 30+ recipes daily while consistently meeting quality standards
@@ -47,13 +60,11 @@ I tackle challenges with flexibility and innovative thinking, thriving in collab
 ## Certifications
 **IT Help Desk for Beginners**
 > LinkedIn Learning
-
 - Strengthened IT knowledge by learning about IT Help Desk skills, user support, incident tracking and tickets using Spiceworks Help Desk Ticketing Database, and other management tools
 
 
 **Google Technical Support Fundamentals**
 > 1 out of 5 courses apart of the Google IT Support Certificate
-
 - Developed a foundation in IT fundamentals, including computer hardware, networking, system administration, and troubleshooting methodologies
 
 ## Projects
