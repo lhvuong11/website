@@ -20,14 +20,12 @@ Languages: Fluent English, Advanced Vietnamese
 #### [GitHub](https://github.com/lhvuong11) , [LinkedIn](https://www.linkedin.com/in/linda-vuong-3664821ba/) , [Resume](https://github.com/lhvuong11/website/blob/main/Vuong_Linda_Resume.docx) , [CV](https://github.com/lhvuong11/website/blob/main/Vuong_Linda_CV.pdf)  
 
 <br>
-<br>
 
 ## Education
 | M.S. Informatics | San José State University | In progress |
 | B.S. Mathematics - Computer Science | University of California San Diego | Graduated August 2023 |
-| A.D.T. Computer Science | De Anza College | Graduated July 2021 |  
+| A.D.T. Computer Science | De Anza College | Graduated July 2021 |
 
-<br>
 <br>
 
 ## Professional Experience
@@ -66,6 +64,8 @@ Languages: Fluent English, Advanced Vietnamese
 - Managed weekly inventory by monitoring stock levels and placing strategic orders to ensure product availability and operational efficiency.
 - Memorized and prepared 30+ recipes daily while consistently meeting quality standards.
 
+<br>
+
 ## Certifications
 **IT Help Desk for Beginners**
 > LinkedIn Learning
@@ -77,7 +77,6 @@ Languages: Fluent English, Advanced Vietnamese
 
 - Developed a foundation in IT fundamentals, including computer hardware, networking, system administration, and troubleshooting methodologies
 
-<br>
 <br>
 
 ## Projects
