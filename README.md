@@ -17,27 +17,25 @@ Driving forward with a passion for engineering and helping others, I am eager to
 
 ## Education
 M.S. Informatics | San Jose State University (_In progress_)
----
 B.S. Mathematics - Computer Science | University of California San Diego (_August 2023_)
----
 A.D.T. Computer Science | De Anza College (_July 2021_)
----
 
 ## Work Experience
-**Element Materials Technology**
-***Lead Engineer***
+### Element Materials Technology
+**Lead Engineer**
 - bleep bloop
 
-***Associate Engineer I***
+**Associate Engineer I**
 - Conduct and analyze SAR/RF exposure compliance testing and evaluations per regulatory specifications for 5+ technologies and test models
 - Compile and report test results for 10+ total test models using MS Word and MS Excel
 - Curated an official Job Instruction Breakdown Document for future trainings in system verification
 
-***Associate Test Technician***
+**Associate Test Technician**
 > Converted from Seasonal to Permanent Technician
 - Conducted and analyzeed SAR/RF exposure compliance testing and evaluations per regulatory specifications for 5+ technologies (UMTS/LTE/NR/WLAN/WIFI/BT/NB-UNII/UWB), ensuring compliance and safety.
 
-**Seasonal Retail Specialist at Code Ninjas** 
+**Seasonal Retail Specialist** 
+### Element Materials Technology
 - XX
 
 **Code Instructor at Code Ninjas** 
