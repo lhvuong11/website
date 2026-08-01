@@ -18,11 +18,12 @@ Languages: Fluent English, Advanced Vietnamese
 
 
 #### [GitHub](https://github.com/lhvuong11) , [LinkedIn](https://www.linkedin.com/in/linda-vuong-3664821ba/) , [Resume](https://github.com/lhvuong11/website/blob/main/Vuong_Linda_Resume.docx) , [CV](https://github.com/lhvuong11/website/blob/main/Vuong_Linda_CV.pdf)  
-
 <br>
 
 ## Education
 
+|  |  |  |
+| :--- | :--- | ---: |
 | M.S. Informatics | San José State University | In progress |
 | B.S. Mathematics - Computer Science | University of California San Diego | Graduated August 2023 |
 | A.D.T. Computer Science | De Anza College | Graduated July 2021 |
@@ -43,7 +44,7 @@ Languages: Fluent English, Advanced Vietnamese
 - Trained new hires in all aspects of SAR testing, as well as created new SOPs to further facilitate learning, illustrating attention to detail and the ability to clearly explain complex procedures.
 
 **Associate Test Technician**
-> Promoted from Seasonal to Permanent Technician
+> Promoted from Seasonal to Permanent Associate Technician
 
 - Conducted and analyzeed SAR/RF exposure compliance testing and evaluations per regulatory specifications for 5+ technologies (UMTS/LTE/NR/WLAN/WIFI/BT/NB-UNII/UWB), ensuring compliance and safety.
 
