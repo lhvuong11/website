@@ -10,10 +10,11 @@ Driving forward with a passion for engineering and helping others, I am eager to
 
 ![LinkedIn Header](linkedin.jpg)
 
-**Technical Skills: Python, Javacript, Java, C++**
-**Lab Skills: RF Compliance Testing and Reporting**
-**Languages: Fluent English, Advanced Vietnamese**
-**[GitHub](https://github.com/lhvuong11) , [LinkedIn](https://www.linkedin.com/in/linda-vuong-3664821ba/) , [Resume](https://github.com/lhvuong11/website/blob/main/Vuong_Linda_Resume.docx) , [CV](https://github.com/lhvuong11/website/blob/main/Vuong_Linda_CV.pdf)** 
+**Technical Skills:** Python, Javacript, Java, C++\
+**Lab Skills:** RF Compliance Testing and Reporting\
+**Languages:** Fluent English, Advanced Vietnamese\
+
+#### [GitHub](https://github.com/lhvuong11) , [LinkedIn](https://www.linkedin.com/in/linda-vuong-3664821ba/) , [Resume](https://github.com/lhvuong11/website/blob/main/Vuong_Linda_Resume.docx) , [CV](https://github.com/lhvuong11/website/blob/main/Vuong_Linda_CV.pdf)
 
 
 
@@ -21,8 +22,7 @@ Driving forward with a passion for engineering and helping others, I am eager to
 M.S. Informatics | San Jose State University [In progress]
 
 ---
-B.S. Mathematics - Computer Science |\
-University of California San Diego [August 2023]
+B.S. Mathematics - Computer Science |\ University of California San Diego [August 2023]
 
 ---
 A.D.T. Computer Science | De Anza College [July 2021]
@@ -32,7 +32,7 @@ A.D.T. Computer Science | De Anza College [July 2021]
 ## Work Experience
 ### Element Materials Technology
 
-#### Lead Engineer
+**Lead Engineer**
 - bleep bloop
 
 **Associate Engineer I**
@@ -41,25 +41,28 @@ A.D.T. Computer Science | De Anza College [July 2021]
 - Curated an official Job Instruction Breakdown Document for future trainings in system verification
 
 **Associate Test Technician**
-> Converted from Seasonal to Permanent Technician
+> Promoted from Seasonal to Permanent Technician
 - Conducted and analyzeed SAR/RF exposure compliance testing and evaluations per regulatory specifications for 5+ technologies (UMTS/LTE/NR/WLAN/WIFI/BT/NB-UNII/UWB), ensuring compliance and safety.
 
-**Seasonal Retail Specialist** 
-### Element Materials Technology
+### Apple Retail Oakrigdge
+**Seasonal Specialist** 
 - XX
 
-**Code Instructor at Code Ninjas** 
+### Code Ninjas
+**Code Instructor** 
 - Delivered comprehensive curriculum for JavaScript, Roblox Studio, and C# courses, reaching 20+ students every week
 - Facilitated coding workshops and seminars attended by 30+ participants, resulting in positive feedback from parents and students alike
 - Built problem-solving skills and determined individual skill sets for each student 
 
-**Retail Sales Associate at ZARA** 
+### ZARA
+**Retail Sales Associate** 
 > Appointed Opening & Closing Cashier – Ensured precise opening and closing register balances daily 
 - Conducted nightly currency counts and bank deposits with store managers
 - Processed an average of 50 transactions daily with 99.5% accuracy
 - Assisted and communicated with customers regarding clothing inquires by understanding their needs and recommending products that meet those needs
  
-**Team Supervisor at Tastea**
+### Tastea
+**Team Supervisor**
 > Promoted from Team Member to Team Supervisor within a year of employment
 - Led a team of 6-10 members per day, achieving overall productivity through effective task delegation
 - Stocked inventory and reduced waste through strategic ordering and portion control measures
