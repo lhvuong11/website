@@ -15,14 +15,19 @@ Driving forward with a passion for engineering and helping others, I am eager to
 #### Languages: Fluent English, Advanced Vietnamese
 #### [GitHub](https://github.com/lhvuong11) , [LinkedIn](https://www.linkedin.com/in/linda-vuong-3664821ba/) , [Resume](https://github.com/lhvuong11/website/blob/main/Vuong_Linda_Resume.docx) , [CV](https://github.com/lhvuong11/website/blob/main/Vuong_Linda_CV.pdf) 
 
+
 ## Education
-M.S. Informatics | San Jose State University (_In progress_)
-B.S. Mathematics - Computer Science | University of California San Diego (_August 2023_)
-A.D.T. Computer Science | De Anza College (_July 2021_)
+M.S. Informatics | San Jose State University [In progress]
+---
+B.S. Mathematics - Computer Science | University of California San Diego [August 2023]
+---
+A.D.T. Computer Science | De Anza College [July 2021]
+---
 
 ## Work Experience
 ### Element Materials Technology
-**Lead Engineer**
+
+#### Lead Engineer
 - bleep bloop
 
 **Associate Engineer I**
