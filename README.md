@@ -22,6 +22,7 @@ Languages: Fluent English, Advanced Vietnamese
 <br>
 
 ## Education
+
 | M.S. Informatics | San José State University | In progress |
 | B.S. Mathematics - Computer Science | University of California San Diego | Graduated August 2023 |
 | A.D.T. Computer Science | De Anza College | Graduated July 2021 |
