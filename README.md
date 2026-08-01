@@ -18,10 +18,13 @@ Driving forward with a passion for engineering and helping others, I am eager to
 
 ## Education
 M.S. Informatics | San Jose State University [In progress]
+
 ---
 B.S. Mathematics - Computer Science | University of California San Diego [August 2023]
+
 ---
 A.D.T. Computer Science | De Anza College [July 2021]
+
 ---
 
 ## Work Experience
