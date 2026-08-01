@@ -45,6 +45,7 @@ Languages: Fluent English, Advanced Vietnamese
 
 **Associate Test Technician**
 > Promoted from Seasonal to Permanent Technician
+
 - Conducted and analyzeed SAR/RF exposure compliance testing and evaluations per regulatory specifications for 5+ technologies (UMTS/LTE/NR/WLAN/WIFI/BT/NB-UNII/UWB), ensuring compliance and safety.
 
 ### Apple Retail Oakrigdge
@@ -60,6 +61,7 @@ Languages: Fluent English, Advanced Vietnamese
 ### Tastea
 **Team Supervisor**
 > Promoted from Team Member to Team Supervisor within a year of employment
+
 - Supervised a team of 6–10 employees, driving productivity through strategic task delegation, workflow coordination, and performance oversight.
 - Managed weekly inventory by monitoring stock levels and placing strategic orders to ensure product availability and operational efficiency.
 - Memorized and prepared 30+ recipes daily while consistently meeting quality standards.
@@ -67,10 +69,12 @@ Languages: Fluent English, Advanced Vietnamese
 ## Certifications
 **IT Help Desk for Beginners**
 > LinkedIn Learning
+
 - Strengthened IT knowledge by learning about IT Help Desk skills, user support, incident tracking and tickets using Spiceworks Help Desk Ticketing Database, and other management tools
 
 **Google Technical Support Fundamentals**
 > 1 out of 5 courses apart of the Google IT Support Certificate
+
 - Developed a foundation in IT fundamentals, including computer hardware, networking, system administration, and troubleshooting methodologies
 
 <br>
