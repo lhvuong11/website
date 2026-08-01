@@ -10,17 +10,20 @@ Driving forward with a passion for engineering and helping others, I am eager to
 
 ![LinkedIn Header](linkedin.jpg)
 
-#### Technical Skills: Python, Javacript, Java, C++
-#### Lab Skills: RF Compliance Testing and Reporting
-#### Languages: Fluent English, Advanced Vietnamese
-#### [GitHub](https://github.com/lhvuong11) , [LinkedIn](https://www.linkedin.com/in/linda-vuong-3664821ba/) , [Resume](https://github.com/lhvuong11/website/blob/main/Vuong_Linda_Resume.docx) , [CV](https://github.com/lhvuong11/website/blob/main/Vuong_Linda_CV.pdf) 
+**Technical Skills: Python, Javacript, Java, C++**
+**Lab Skills: RF Compliance Testing and Reporting**
+**Languages: Fluent English, Advanced Vietnamese**
+**[GitHub](https://github.com/lhvuong11) , [LinkedIn](https://www.linkedin.com/in/linda-vuong-3664821ba/) , [Resume](https://github.com/lhvuong11/website/blob/main/Vuong_Linda_Resume.docx) , [CV](https://github.com/lhvuong11/website/blob/main/Vuong_Linda_CV.pdf)** 
+
 
 
 ## Education
 M.S. Informatics | San Jose State University [In progress]
 
 ---
-B.S. Mathematics - Computer Science | University of California San Diego [August 2023]
+B.S. Mathematics - Computer Science | 
+
+University of California San Diego [August 2023]
 
 ---
 A.D.T. Computer Science | De Anza College [July 2021]
