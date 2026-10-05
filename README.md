@@ -17,7 +17,7 @@ Laboratory Skills: RF Compliance Testing and Reporting
 Languages: Fluent English, Advanced Vietnamese
 
 
-#### [GitHub](https://github.com/lhvuong11) , [LinkedIn](https://www.linkedin.com/in/linda-vuong-3664821ba/) , [Resume](https://github.com/lhvuong11/website/blob/99ca719c25876ae3e8ededc1195ae44803779c9c/Vuong_Linda_Resume.pdf)
+#### [GitHub](https://github.com/lhvuong11) , [LinkedIn](https://www.linkedin.com/in/linda-vuong-3664821ba/) , [Resume](https://github.com/lhvuong11/website/blob/8c33b47624285eef3ebc041ddb78f6fb116ce69e/Vuong_Linda_Resume.docx)
 
 ---
 
