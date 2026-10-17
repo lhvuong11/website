@@ -10,7 +10,7 @@ Driving forward with a passion for engineering and helping others, I am eager to
 
 ![LinkedIn Header](linkedin.jpg)
 
-Technical Skills: Python, Javacript, Java, C++
+Technical Skills: Python, Java, C++
 
 Laboratory Skills: RF Compliance Testing and Reporting
 
@@ -38,50 +38,29 @@ Languages: Fluent English, Advanced Vietnamese
 - Drafted and submitted three primary reports, each with 10 supporting appendices, achieving 100% compliance with client requirements and internal quality standards. 
 - Continued serving as Group Lead after completing my assigned projects, supporting fellow engineers and driving sustained team efficiency and operational excellence.
 
-**Associate Engineer I**
+**Associate Engineer**
 - Compiled and reported test results using MS Word, Excel and Acrobat for 30+ total test models, showcasing data analysis and improving data accuracy.
 - Trained new hires in all aspects of SAR testing, as well as created new SOPs to further facilitate learning, illustrating attention to detail and the ability to clearly explain complex procedures.
 
 **Associate Test Technician**
-> Promoted from Seasonal to Permanent Associate Technician
-
+Promoted from Seasonal to Permanent Associate Technician
 - Conducted and analyzeed SAR/RF exposure compliance testing and evaluations per regulatory specifications for 5+ technologies (UMTS/LTE/NR/WLAN/WIFI/BT/NB-UNII/UWB), ensuring compliance and safety.
 
-### Apple Retail Oakrigdge
+### Apple
 **Seasonal Specialist** 
 - Provided personalized, informed Apple product recommendations based on product releases and industry trends, tailoring solutions to meet individual user needs and enhance overall satisfaction for over 8 customers daily.
 - Built strong customer rapport through collaborative real-time troubleshooting and needs assessments, resulting in a 98% customer satisfaction rating.
 
-### Code Ninjas
-**Code Instructor** 
-- Delivered comprehensive instruction in JavaScript, Roblox Studio, and C# to 15+ students daily through engaging, hands-on lessons.
-- Assessed individual student skill levels and tailored instruction to strengthen problem-solving abilities, contributing to a 92% improvement in student performance.
- 
-### Tastea
-**Team Supervisor**
-> Promoted from Team Member to Team Supervisor within a year of employment
-
-- Supervised a team of 6–10 employees, driving productivity through strategic task delegation, workflow coordination, and performance oversight.
-- Managed weekly inventory by monitoring stock levels and placing strategic orders to ensure product availability and operational efficiency.
-- Memorized and prepared 30+ recipes daily while consistently meeting quality standards.
+### [Extensive Experience](/Users/lindavuong/Documents/GitHub/website/extensive.md)
+- Click here to view my extensive experience in the workforce. 
+- This can also be seen on LinkedIn!
 
 
-## Certifications
-**IT Help Desk for Beginners**
-> LinkedIn Learning
-
-- Strengthened IT knowledge by learning about IT Help Desk skills, user support, incident tracking and tickets using Spiceworks Help Desk Ticketing Database, and other management tools
-
-**Google Technical Support Fundamentals**
-> 1 out of 5 courses apart of the Google IT Support Certificate
-
-- Developed a foundation in IT fundamentals, including computer hardware, networking, system administration, and troubleshooting methodologies
-
-
-## Projects
-**CIS 22C Java Final Project**
-- Designed a Facebook-like program where the user can add/remove friends, check friends list, etc… 
-- Implemented various data structures such as LinkedList, LinkedDictionary, Heaps, Graphs, etc…
+## Recent Projects
+**Refrigerator Simulation - Python**
+INFM 201 Informatics Final Programming Project - 2026
+- The purpose of this script is to allow the end-user to issue a query and extract a subset of data by reading in a .json file into a python dictionary. Based on the end-user's choices, it will output a .json file consisting of select keys.
+- For this scenario, the end-user is trying to examine the contents of their refrigerator. The end-user issues a query and depending on the data extracted, they might need to create a grocery list and go grocery shopping.
 
 --- 
 
