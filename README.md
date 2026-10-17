@@ -27,7 +27,7 @@ Languages: Fluent English, Advanced Vietnamese
 | M.S. Informatics | San José State University | In progress |
 | B.S. Mathematics - Computer Science | University of California San Diego | Graduated August 2023 |
 | A.D.T. Computer Science | De Anza College | Graduated      July 2021 |
-
+|  |  |  |
 
 ## Professional Experience
 ### Element Materials Technology
@@ -43,6 +43,7 @@ Languages: Fluent English, Advanced Vietnamese
 - Trained new hires in all aspects of SAR testing, as well as created new SOPs to further facilitate learning, illustrating attention to detail and the ability to clearly explain complex procedures.
 
 **Associate Test Technician**
+
 Promoted from Seasonal to Permanent Associate Technician
 - Conducted and analyzeed SAR/RF exposure compliance testing and evaluations per regulatory specifications for 5+ technologies (UMTS/LTE/NR/WLAN/WIFI/BT/NB-UNII/UWB), ensuring compliance and safety.
 
@@ -51,13 +52,14 @@ Promoted from Seasonal to Permanent Associate Technician
 - Provided personalized, informed Apple product recommendations based on product releases and industry trends, tailoring solutions to meet individual user needs and enhance overall satisfaction for over 8 customers daily.
 - Built strong customer rapport through collaborative real-time troubleshooting and needs assessments, resulting in a 98% customer satisfaction rating.
 
-### [Extensive Experience](/Users/lindavuong/Documents/GitHub/website/extensive.md)
+## [Extensive Experience](/Users/lindavuong/Documents/GitHub/website/extensive.md)
 - Click here to view my extensive experience in the workforce. 
 - This can also be seen on LinkedIn!
 
 
 ## Recent Projects
 **Refrigerator Simulation - Python**
+
 INFM 201 Informatics Final Programming Project - 2026
 - The purpose of this script is to allow the end-user to issue a query and extract a subset of data by reading in a .json file into a python dictionary. Based on the end-user's choices, it will output a .json file consisting of select keys.
 - For this scenario, the end-user is trying to examine the contents of their refrigerator. The end-user issues a query and depending on the data extracted, they might need to create a grocery list and go grocery shopping.
